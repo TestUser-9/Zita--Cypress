@@ -1,0 +1,19 @@
+{
+  "name": "zita--cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Supraja Sivaraj",
+  "license": "ISC",
+  "dependencies": {
+    "@applitools/eyes-cypress": "^3.28.1",
+    "cypress": "^12.3.0"
+  },
+  "devDependencies": {
+    "cypress-mochawesome-reporter": "^3.2.3"
+  }
+}
