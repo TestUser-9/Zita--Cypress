@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "AboutUsTest.cy.js"
+    "test": "tests"
   },
   "keywords": [],
   "author": "Supraja Sivaraj",
