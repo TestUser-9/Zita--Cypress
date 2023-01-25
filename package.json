@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "tests"
+    "test": "npx cypress run --record --key 9e5e4f9a-2c28-422a-bc98-dcd4f3add595"
   },
   "keywords": [],
   "author": "Supraja Sivaraj",
